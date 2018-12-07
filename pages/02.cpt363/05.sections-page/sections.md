@@ -3,13 +3,15 @@ title: 'Sections Page'
 published: true
 hide_page_title: true
 show_sidebar: false
+hide_git_sync_repo_link: false
+git_sync_repo_link: 'https://github.com/paulhibbitts/demo-grav-skeleton-open-matter-multi-course-hub-site/tree/master/pages/02.cpt363/05.sections-page'
 sections_nav_align: left
 content:
     items: '@self.children'
     order:
         by: folder
         dir: asc
-    limit: 0    
+    limit: 0
 ---
 
 # Sections
