@@ -5,7 +5,7 @@ hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: true
 shortcodes: true
-hide_title: false
+hide_title: true
 display_custom_links: false
 ---
 
