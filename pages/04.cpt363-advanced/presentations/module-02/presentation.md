@@ -3,9 +3,9 @@ title: 'The Process of UX Design'
 horizontal: false
 hide_page_title: false
 show_sidebar: true
-hide_git_sync_repo_link: true
+hide_git_sync_repo_link: false
 shortcodes: true
-hide_title: true
+hide_title: false
 display_custom_links: false
 ---
 
