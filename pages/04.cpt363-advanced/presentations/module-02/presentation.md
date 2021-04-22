@@ -1,5 +1,12 @@
 ---
-title: The Process of UX Design
+title: 'The Process of UX Design'
+horizontal: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: true
+shortcodes: true
+hide_title: false
+display_custom_links: false
 ---
 
 [.text: alignment(center)]
