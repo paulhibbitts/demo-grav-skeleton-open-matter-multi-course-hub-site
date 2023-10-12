@@ -3,6 +3,9 @@ title: Sidebar
 routable: false
 visible: false
 cache_enable: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
 ---
 
 ## Course Facilitator
@@ -25,6 +28,3 @@ Suggestion, concern or complaint?
 
 ## Web Pick of the Week
 [plugin:page-inject](../web-pick-of-the-week/)
-
-## Twitter Feed
-[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"][/twitter]
