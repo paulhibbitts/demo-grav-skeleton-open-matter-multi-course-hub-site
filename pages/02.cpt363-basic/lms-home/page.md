@@ -1,4 +1,6 @@
 ---
+simplesearch:
+    process: false
 title: 'Home in LMS'
 visible: false
 hide_page_title: true
@@ -7,6 +9,6 @@ cache_enable: false
 hide_git_sync_repo_link: true
 ---
 
-[plugin:page-inject](/home/_reminders)
+[plugin:page-inject](../home/_reminders)
 
-[plugin:page-inject](/home/_preparations)
+[plugin:page-inject](../home/_preparations)

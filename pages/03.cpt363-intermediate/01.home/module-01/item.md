@@ -38,4 +38,4 @@ hide_git_sync_repo_link: true
 [h5p]https://h5p.org/h5p/embed/213956[/h5p]  
 
 ### Recommended Reading  
-[embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
+[linkpreviewcard url="https://usabilitygeek.com/guerrilla-usability-testing-how-to/"]
